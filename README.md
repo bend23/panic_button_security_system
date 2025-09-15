@@ -1,4 +1,4 @@
-# Panic button with sonar alarm project
+# Panic button with sound alarm project
 
 As safety plays a vital role in our days, it is important to think about such intelligent systems that helps our life and improves protection. Whether we speak about shops, houses or cars protection is crucial for our well-being. 
 
