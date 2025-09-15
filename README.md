@@ -12,13 +12,13 @@ But let's dive in more detailed and see how this prototype works:
 
 For this implementation, I've had quite less resources to work with:
 
-- [x] 1 x breadboard
-- [x] 1 x Arduino Nano board
-- [x] 1 x HC-SR04 sensor
-- [x] 1 x SG-90 servo motor
-- [x] 1 buzzer (for the sound)
-- [x] 2 x buttons
-- [x] Jumpers
+  - [x] 1 x breadboard
+  - [x] 1 x Arduino Nano board
+  - [x] 1 x HC-SR04 sensor
+  - [x] 1 x SG-90 servo motor
+  - [x] 1 buzzer (for the sound)
+  - [x] 2 x buttons
+  - [x] Jumpers
 
 ## Electrical scheme
 
