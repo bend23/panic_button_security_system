@@ -52,7 +52,7 @@ After powering up, the servo motor is sending PWM signals to one of the processi
 
 The ultrasonic sensor used has four pins: power (VCC/GND), trigger (input), echo (output). Via the trig line there is short micropulses sended for the senso, which then will emit ultrasonic sound waves. The sensor is keeping the echo pin HIGH until the ultrasonic waves emited by the trigger reaches an object and reflects back to the sensor. When this pin is true, the buzzer will emit the sound.
 
-## The realised protype
+## The realised protoype
 
 The module realised is small, robust system which can be improved and implemented in the future as a security system: 
 
